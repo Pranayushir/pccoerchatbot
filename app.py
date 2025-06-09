@@ -6,7 +6,10 @@ import google.generativeai as genai
 app = Flask(__name__, static_folder="static", template_folder="templates")
 
 # Configure Gemini API
-api_key = os.getenv('GEMINI_API_KEY', 'AIzaSyD0Ccj0sG63E9sncpCEpGQyb8-IkWuT0jM')
+api_key = os.getenv('GEMINI_API_KEY')
+if not api_key:
+    raise RuntimeError("GEMINI_API_KEY environment variable is not set")
+
 genai.configure(api_key=api_key)
 
 # Load FAQ data
