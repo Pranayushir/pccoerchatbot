@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pimpri Chinchwad College of Engineering & Research</title>
+    <link rel="stylesheet" href="/static/styles.css">
+</head>
+<body>
+    <div class="header">
+        <div class="college-logos">
+            <img src="/static/images/pccoer-logo.webp" alt="PCCOER Logo" class="left-logo">
+            <div class="header-info">
+                <h1>Pimpri Chinchwad Education Trust's</h1>
+                <h2>PIMPRI CHINCHWAD COLLEGE OF ENGINEERING & RESEARCH</h2>
+                <p class="header-text">An ISO 21001:2018 Certified Institute / Computer Engineering | Electronics & Telecommunication Engineering | Civil Engineering | Mechanical Engineering Programs are <span class="highlight">NBA Accredited | NAAC A++ Accredited | An autonomous Institute</span></p>
+                <p class="header-text">(Approved by Govt. of Maharashtra, Affiliated to SPPU, Approved by AICTE, DTE CODE - 6822)</p>
+            </div>
+            <img src="/static/images/pcet-trust-logo.jpg" alt="Trust Logo" class="right-logo">
+        </div>
+    </div>
+
+    <div class="nav-bar">
+        <a href="https://www.pccoer.com/" class="nav-brand">PCCOER</a>
+        
+        <div class="nav-links">
+            <a href="https://www.pccoer.com/about-pccoer.php" class="nav-link">About PCCOER</a>
+            <a href="https://www.pccoer.com/contact-us.php" class="nav-link">Contact Us</a>
+            <button class="theme-toggle" id="themeToggle">
+                <svg class="sun-icon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                    <circle cx="12" cy="12" r="5"></circle>
+                    <line x1="12" y1="1" x2="12" y2="3"></line>
+                    <line x1="12" y1="21" x2="12" y2="23"></line>
+                    <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+                    <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+                    <line x1="1" y1="12" x2="3" y2="12"></line>
+                    <line x1="21" y1="12" x2="23" y2="12"></line>
+                    <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+                    <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+                </svg>
+                <svg class="moon-icon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                    <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+                </svg>
+            </button>
+        </div>
+    </div>
+
+    <div class="main-content">
+        <div class="logo-container">
+            <img src="/static/images/pccoer-logo.webp" alt="PCCOER Main Logo" class="college-logo">
+            <p class="logo-text">पिंपरी चिंचवड कॉलेज ऑफ इंजिनीअरिंग अँड रिसर्च</p>
+        </div>
+    </div>
+
+    <!-- Chat Button -->
+    <div class="chat-button" id="chatButton">
+        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"></path>
+        </svg>
+    </div>
+
+    <!-- Chat Modal -->
+    <div class="chat-modal" id="chatModal">
+        <div class="chat-header">
+            <div style="display: flex; align-items: center;">
+                <img src="/static/images/pccoer-logo.webp" alt="Bot Avatar" class="bot-avatar">
+                <span class="chat-title">PCCOER Support</span>
+            </div>
+            <button class="close-chat" id="closeChat">&times;</button>
+        </div>
+        <div class="chat-body" id="chatBody">
+            <div class="chat-initial-message">
+                <strong>Hello! Welcome to PCCOER Support Chat.</strong><br>
+                How can we help you today? Select an option below or type your question.
+                <div class="chat-options">
+                    <button class="chat-option-button">Admission Process</button>
+                    <button class="chat-option-button">Fee Structure</button>
+                    <button class="chat-option-button">Courses Available</button>
+                    <button class="chat-option-button">Cutoff Information</button>
+                </div>
+            </div>
+        </div>
+        <div class="chat-footer">
+            <div class="chat-input-container">
+                <input type="text" class="chat-input" id="chatInput" placeholder="Type a message...">
+                <button class="voice-button" id="voiceButton" title="Voice Input">
+                    <svg class="mic-icon" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <path d="M12 1a3 3 0 0 0-3 3v8a3 3 0 0 0 6 0V4a3 3 0 0 0-3-3z"></path>
+                        <path d="M19 10v2a7 7 0 0 1-14 0v-2"></path>
+                        <line x1="12" y1="19" x2="12" y2="23"></line>
+                        <line x1="8" y1="23" x2="16" y2="23"></line>
+                    </svg>
+                </button>
+            </div>
+            <button class="send-button" id="sendMessage">
+                <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                    <line x1="22" y1="2" x2="11" y2="13"></line>
+                    <polygon points="22 2 15 22 11 13 2 9 22 2"></polygon>
+                </svg>
+            </button>
+        </div>
+    </div>
+
+    <!-- Voice Status Indicator -->
+    <div class="voice-status" id="voiceStatus" style="display: none;">
+        <div class="voice-animation"></div>
+        <span>Listening...</span>
+    </div>
+
+    <script src="/static/script.js"></script>
+</body>
+</html>

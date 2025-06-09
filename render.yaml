@@ -1,0 +1,10 @@
+services:
+  - type: web
+    name: pccoerchatbot
+    runtime: python
+    region: oregon
+    buildCommand: pip install -r requirements.txt
+    startCommand: gunicorn app:app
+    envVars:
+      - key: GEMINI_API_KEY
+        value: AIzaSyD0Ccj0sG63E9sncpCEpGQyb8-IkWuT0jM

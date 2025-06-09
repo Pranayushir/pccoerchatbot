@@ -1,0 +1,211 @@
+[
+    {
+      "question": "What courses are available?",
+      "answer": "We offer B.Tech in CS, IT, ENTC, Mechanical Engineering, Civil Engineering, BBA, and BCA."
+    },
+    {
+      "question": "What is the eligibility for B.Tech?",
+      "answer": "You need to have 50% in PCM subjects in your 12th grade."
+    },
+    {
+      "question": "What is the admission process?",
+      "answer": "You need to fill out the online form and clear the cutoff of CET/JEE examination."
+    },
+    {
+      "question": "What is the fee structure for General category?",
+      "answer": "The fee structure for General category is Rs. 1,34,366/year."
+    },
+    {
+      "question": "What is the fee structure for OBC category?",
+      "answer": "The fee structure for OBC/EBC/EWS/SEBC is Rs. 77,844/year."
+    },
+    {
+      "question": "What is the fee structure for VJ/NT category?",
+      "answer": "The fee structure for VJ/NT/TFWS is Rs. 77,844/year."
+    },
+    {
+      "question": "What is the fee structure for SC/ST category?",
+      "answer": "The fee structure for SC/ST is Rs. 4,366/year."
+    },
+    {
+      "question": "What is the fee structure for BCA/BBA ?",
+      "answer": "The fee structure for SC/ST is Rs. 57,366/year."
+    },
+    {
+    "question": "What is the cutoff for Computer Science (CS) in CAP 1 round?",
+    "answer": "GENERAL - 96.60%, SC - 88.01%, ST - 38.88%, VJ (NT-A) - 90.67%, NT1 (NT-B) - 94.52%, NT2 (NT-C) - 95.63%, NT3 (NT-D) - 95.02%, OBC - 95.90%, EWS - 94.17%, TFWS - 96.90%."
+  },
+  {
+    "question": "What is the cutoff for Computer Science (CS) in CAP 2 round?",
+    "answer": "GENERAL - 96.38%, SC - 90.51%, ST - 42.72%, VJ (NT-A) - 92.22%, NT1 (NT-B) - 92.19%, NT2 (NT-C) - 93.87%, NT3 (NT-D) - 94.78%, OBC - 95.50%, EWS - 93.76%, TFWS - 96.79%."
+  },
+  {
+    "question": "What is the cutoff for Computer Science (CS) in CAP 3 round?",
+    "answer": "GENERAL - 96.35%, SC - 88.97%, ST - 25.64%, VJ (NT-A) - 95.26%, NT1 (NT-B) - 67.68%, NT2 (NT-C) - 81.81%, NT3 (NT-D) - 91.27%, OBC - 95.40%, EWS - 93.49%, TFWS - 96.75%."
+  },
+  {
+    "question": "What is the cutoff for Information Technology (IT) in CAP 1 round?",
+    "answer": "GENERAL - 96.42%, SC - 85.17%, ST - 43.84%, VJ (NT-A) - 86.93%, NT1 (NT-B) - 84.84%, NT2 (NT-C) - 95.63%, NT3 (NT-D) - 90.26%, OBC - 94.47%, EWS - 94.07%, TFWS - 96.38%."
+  },
+  {
+    "question": "What is the cutoff for Information Technology (IT) in CAP 2 round?",
+    "answer": "GENERAL - 96.00%, SC - 85.34%, ST - 76.03%, VJ (NT-A) - 90.67%, NT1 (NT-B) - 72.14%, NT2 (NT-C) - 94.52%, NT3 (NT-D) - 86.21%, OBC - 95.29%, EWS - 93.47%, TFWS - 96.62%."
+  },
+  {
+    "question": "What is the cutoff for Information Technology (IT) in CAP 3 round?",
+    "answer": "GENERAL - 96.30%, SC - 88.01%, ST - 50.03%, VJ (NT-A) - 92.22%, NT1 (NT-B) - 94.52%, NT2 (NT-C) - 93.54%, NT3 (NT-D) - 95.02%, OBC - 95.29%, EWS - 93.34%, TFWS - 96.41%."
+  },
+  {
+    "question": "What is the cutoff for Electronics & Telecommunication (ENTC) in CAP 1 round?",
+    "answer": "GENERAL - 95.34%, SC - 85.17%, ST - 43.84%, VJ (NT-A) - 86.93%, NT1 (NT-B) - 84.84%, NT2 (NT-C) - 95.63%, NT3 (NT-D) - 90.26%, OBC - 94.47%, EWS - 94.07%, TFWS - 96.38%."
+  },
+  {
+    "question": "What is the cutoff for Electronics & Telecommunication (ENTC) in CAP 2 round?",
+    "answer": "GENERAL - 95.29%, SC - 85.34%, ST - 76.03%, VJ (NT-A) - 90.67%, NT1 (NT-B) - 72.14%, NT2 (NT-C) - 94.52%, NT3 (NT-D) - 86.21%, OBC - 95.29%, EWS - 93.47%, TFWS - 96.62%."
+  },
+  {
+    "question": "What is the cutoff for Electronics & Telecommunication (ENTC) in CAP 3 round?",
+    "answer": "GENERAL - 95.71%, SC - 88.01%, ST - 50.03%, VJ (NT-A) - 92.22%, NT1 (NT-B) - 94.52%, NT2 (NT-C) - 93.54%, NT3 (NT-D) - 95.02%, OBC - 95.29%, EWS - 93.34%, TFWS - 96.41%."
+  },
+  {
+    "question": "What is the cutoff for Mechanical Engineering in CAP 1 round?",
+    "answer": "GENERAL - 85.34%, SC - 84.20%, ST - 21.91%, VJ (NT-A) - 83.17%, NT1 (NT-B) - 64.27%, NT2 (NT-C) - 90.13%, NT3 (NT-D) - 92.85%, OBC - 92.57%, EWS - 90.68%, TFWS - 94.44%."
+  },
+  {
+    "question": "What is the cutoff for Mechanical Engineering in CAP 2 round?",
+    "answer": "GENERAL - 80.78%, SC - 85.34%, ST - 29.41%, VJ (NT-A) - 86.80%, NT1 (NT-B) - 76.59%, NT2 (NT-C) - 72.77%, NT3 (NT-D) - 86.21%, OBC - 68.90%, EWS - 62.78%, TFWS - 89.92%."
+  },
+  {
+    "question": "What is the cutoff for Mechanical Engineering in CAP 3 round?",
+    "answer": "GENERAL - 85.86%, SC - 88.01%, ST - 34.57%, VJ (NT-A) - 86.80%, NT1 (NT-B) - 63.23%, NT2 (NT-C) - 81.81%, NT3 (NT-D) - 91.27%, OBC - 82.70%, EWS - 42.72%, TFWS - 89.14%."
+  },
+  {
+    "question": "What is the cutoff for Civil Engineering in CAP 1 round?",
+    "answer": "GENERAL - 92.93%, SC - 81.40%, ST - 2.75%, VJ (NT-A) - 86.93%, NT1 (NT-B) - 84.84%, NT2 (NT-C) - 95.63%, NT3 (NT-D) - 90.26%, OBC - 89.21%, EWS - 83.14%, TFWS - 93.28%."
+  },
+  {
+    "question": "What is the cutoff for Civil Engineering in CAP 2 round?",
+    "answer": "GENERAL - 91.65%, SC - 82.77%, ST - 90.82%, VJ (NT-A) - 90.67%, NT1 (NT-B) - 72.14%, NT2 (NT-C) - 93.87%, NT3 (NT-D) - 86.21%, OBC - 88.56%, EWS - 87.10%, TFWS - 91.27%."
+  },
+  {
+    "question": "What is the cutoff for Civil Engineering in CAP 3 round?",
+    "answer": "GENERAL - 93.87%, SC - 78.19%, ST - 92.33%, VJ (NT-A) - 92.22%, NT1 (NT-B) - 94.52%, NT2 (NT-C) - 81.81%, NT3 (NT-D) - 91.27%, OBC - 92.52%, EWS - 85.45%, TFWS - 96.63%."
+  },
+    {
+      "question": "What is the cutoff for BBA?",
+      "answer": "The expected cutoff for BBA is 70% for the General category."
+    },
+    {
+      "question": "What is the cutoff for BCA?",
+      "answer": "The expected cutoff for BCA is 70% for the General category."
+    },
+    {
+      "question": "What scholarships are available?",
+      "answer": "We offer merit-based,category-based scholarships."
+    },
+    {
+      "question": "What branches are available?",
+      "answer": "Computer Science, Information Technology, ENTC, Mechanical Engineering, Civil Engineering, BBA, and BCA."
+    },
+    {
+      "question": "What documents are required for General category students?",
+      "answer": "For General category students, the required documents include 10th and 12th mark sheets, Transfer Certificate (TC), Migration Certificate, Passport-sized photographs, Entrance exam scorecard, Aadhar card, etc."
+    },
+    {
+      "question": "What documents are required for OBC category students?",
+      "answer": "For OBC category students, the required documents include 10th and 12th mark sheets, Transfer Certificate (TC), Migration Certificate, Caste Certificate, Non-Creamy Layer Certificate, Passport-sized photographs, Entrance exam scorecard, Aadhar card, etc."
+    },
+    {
+      "question": "What documents are required for SC/ST category students?",
+      "answer": "For SC/ST category students, the required documents include 10th and 12th mark sheets, Transfer Certificate (TC), Migration Certificate, Caste Certificate, Income Certificate (if applicable), Passport-sized photographs, Entrance exam scorecard, Aadhar card, etc."
+    },
+    {
+      "question": "What is the placement rate for Computer Science (CS)?",
+      "answer": "The placement rate for CS is 95%."
+    },
+    {
+      "question": "What is the placement rate for Information Technology (IT)?",
+      "answer": "The placement rate for IT is 90%."
+    },
+    {
+      "question": "What is the placement rate for Electronics & Telecommunication (ENTC)?",
+      "answer": "The placement rate for ENTC is 88%."
+    },
+    {
+      "question": "What is the placement rate for Mechanical Engineering?",
+      "answer": "The placement rate for Mechanical Engineering is 85%."
+    },
+    {
+      "question": "What is the placement rate for Civil Engineering?",
+      "answer": "The placement rate for Civil Engineering is 80%."
+    },
+    {
+      "question": "What is the summary of Pimpri Chinchwad College of Engineering & Research (PCCOE&R)?",
+      "answer": "Pimpri Chinchwad College of Engineering & Research (PCCOE&R) was established in 2014 and is an ISO 9001:2015 certified institute. It offers NBA-accredited programs in Civil, Mechanical, CS, ENTC, and IT, with an A++ accreditation from NAAC in its first cycle."
+    },
+    {
+      "question": "What is the four-pillar philosophy of PCCOE&R?",
+      "answer": "PCCOE&R is known for its Four-Pillar Philosophy: Academic Excellence, Research & Innovation, Professional Competence, and Social Commitment."
+    },
+    {
+      "question": "What are the placements at PCCOE&R like?",
+      "answer": "PCCOE&R has a placement rate of over 75%, with international placements and structured training programs."
+    },
+    {
+      "question": "What research achievements does PCCOE&R have?",
+      "answer": "PCCOE&R has over 353 patents, 365 copyrights, and 35 granted patents, recognized by 'World Records India' for filing maximum patents and copyrights in a day."
+    },
+    {
+      "question": "What is the faculty profile at PCCOE&R?",
+      "answer": "PCCOE&R has highly experienced faculty, with over 50% holding or pursuing PhDs."
+    },
+    {
+      "question": "What student development opportunities are available at PCCOE&R?",
+      "answer": "PCCOE&R focuses on co-curricular activities, project-based learning, NSS, cultural events, and ethical values."
+    },
+    {
+      "question": "What are the facilities at PCCOE&R?",
+      "answer": "PCCOE&R offers industry-sponsored labs, an incubation center for startups, and research innovation labs."
+    },
+    {
+      "question": "How can I contact PCCOE&R?",
+      "answer": "You can contact PCCOE&R for general inquiries at 8237238080 or BBA/BCA inquiries at 7385333659. Email: pccoer.ravet@gmail.com. Location: Ravet, Pune."
+    },
+    {
+      "question": "What is the intake capacity for Civil Engineering?",
+      "answer": "The intake capacity for Civil Engineering is 60."
+    },
+    {
+      "question": "What is the intake capacity for Mechanical Engineering?",
+      "answer": "The intake capacity for Mechanical Engineering is 60."
+    },
+    {
+      "question": "What is the intake capacity for Electronics & Telecommunication Engineering?",
+      "answer": "The intake capacity for Electronics & Telecommunication Engineering is 60."
+    },
+    {
+      "question": "What is the intake capacity for Computer Engineering?",
+      "answer": "The intake capacity for Computer Engineering is 360."
+    },
+    {
+      "question": "What is the intake capacity for Information Technology?",
+      "answer": "The intake capacity for Information Technology is 60."
+    },
+    {
+      "question": "What is the intake capacity for Bachelor of Business Administration (BBA)?",
+      "answer": "The intake capacity for BBA is 120."
+    },
+    {
+      "question": "What is the intake capacity for Bachelor of Computer Application (BCA)?",
+      "answer": "The intake capacity for BCA is 120."
+    },
+    {
+      "question": "Is hostel facility available?",
+      "answer": "Yes, hostel facility is available."
+    },
+    {
+      "question": "Is mess(canteen) facility available?",
+      "answer": "Yes, mess(canteen) facility is available."
+    }
+]
+  
