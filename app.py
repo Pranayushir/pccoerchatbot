@@ -4,7 +4,7 @@ import os
 import google.generativeai as genai
 
 app = Flask(__name__, static_folder="static", template_folder="templates")
-
+#test
 # Configure Gemini API
 api_key = os.getenv('GEMINI_API_KEY')
 if not api_key:
